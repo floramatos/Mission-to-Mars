@@ -19,6 +19,7 @@ Four different websites were scraped:
 4. Finally, from https://marshemispheres.com/, high resolution images for each of Mar's hemispheres are scraped.
 
 All the above scraped information was stored in a MongoDB database and is displayed in the following HTML page:
+
 ![Screen Shot 2022-01-07 at 1 21 53 PM](https://user-images.githubusercontent.com/89421440/148611964-9c28f887-b9d0-494a-94b4-0b77237c4c02.png)
 
 
